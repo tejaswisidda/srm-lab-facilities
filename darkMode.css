@@ -1,0 +1,28 @@
+.dark-mode main {
+    background-color: black;
+  }
+
+.dark-mode main p {
+    background-color: black;
+    color: white;
+}
+
+.dark-mode main ul li {
+    background-color: black;
+    color: white;
+}
+
+.dark-mode main h2 {
+    background-color: black;
+    color: #538ac2;
+}
+
+.dark-mode main h3 {
+    background-color: black;
+    color: #538ac2;
+}
+
+.dark-mode form {
+    background-color: black;
+    color: #538ac2;
+}
